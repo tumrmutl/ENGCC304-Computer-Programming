@@ -1,3 +1,4 @@
+//TODO: #13 Fix bugs and arrange in CODEX pattern. remind that variable in line 9&10 are correct.
 #include <studio.h>
 #include <string.h>
 #include <stdlib.h>
