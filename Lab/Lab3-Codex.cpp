@@ -25,8 +25,8 @@ TotalPrice[i] = Quantity[i]*Unitprice[i];
             TotalAmount += TotalPrice[i];
         }
         printf("--------------------------------------------------------------\n");
-        printf("%-20s %11s %13 %17s\n",  "Name", "Quantity", "Unit Price", "Total Price");
-        printf("--------------------------------------------------------------\n");
+printf("%-20s %11s %13 %17s\n",  "Name", "Quantity", "Unit Price", "Total Price");
+        printf("--------------------------------------------------------------\n"):
  
         for(i=0;i<NumberOfItems;i++)
         printf("%-20s %11.2f %13d %17.2f\n", Name[i], Quantity[i] , UnitPrice[i], TotalPrice[i]);
@@ -34,7 +34,6 @@ TotalPrice[i] = Quantity[i]*Unitprice[i];
         printf("--------------------------------------------------------------\n");
         printf("%52s %11.2f\n", "TOTAL AMOUNT : ",Totalamount);
         printf("Enter customer name [QUIT to stop] : ");
-        scanf("%s",Customername);
-    }
+        scanf("%s",Customername);}
     printf("++++++++++SYSTEM SHUTDOWN+++++++++++\n");
 } 
