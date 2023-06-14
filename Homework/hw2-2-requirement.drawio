@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T03:29:23.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hW2-jnrSFhRl4Bjsnra9" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T04:14:24.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LYcbljDTYUqV9g0cL-eY" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1877" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mvioNwK95yMqdUQ73LqQ-36" value="แก้ไขโจทย์ปัญหา" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-720" y="640" width="640" height="1670" as="geometry" />
+          <mxGeometry x="-720" y="530" width="640" height="1670" as="geometry" />
         </mxCell>
         <mxCell id="mvioNwK95yMqdUQ73LqQ-35" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
           <mxGeometry x="255" y="40" width="130" height="30" as="geometry" />
@@ -177,10 +177,10 @@
           <mxGeometry x="255" y="1620" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mvioNwK95yMqdUQ73LqQ-70" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;โจทย์ปัญหา&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-732.5" y="320" width="665" height="310" as="geometry" />
+          <mxGeometry x="-732.5" y="320" width="675" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="mvioNwK95yMqdUQ73LqQ-71" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;โจทย์&lt;/u&gt;&lt;/b&gt; จงเขียน Flowchart เพื่อแสดงขั้นตอนการต้มบะหมี่กึ่งสำเร็จรูป (โดยผู้อ่าน Flowchart คือน้องของคุณ&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ที่มีอายุ 5 ขวบและกำลังหยิบ Flowchart มาต้มมาม่าให้คุณรับประทาน โดยคุณจะไม่พูดอะไรกับน้องเลย)&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;&lt;b&gt;&lt;u&gt;หมายเหตุ&lt;/u&gt;&lt;/b&gt; ทุกขั้นตอนควรมีการอธิบายอย่างละเอียด และเตรียมแก้ไขสำหรับเหตุการณ์ที่อาจผิดพลาดในทุกขั้นตอน&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; เช่น&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - กรณีให้น้องไปซื้อของที่ตลาด แต่ของหมด ควรดำเนินการอย่างไร?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - กรณีให้น้องต้มน้ำ แต่น้ำยังไม่เดือด ควรใส่บะหมี่สำเร็จรูปลงไปเลยไหม&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - กรณีระหว่างทำกับข้าวแล้วแก้สหมด ควรดำเนินการอย่างไร?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - กรณีน้องไปซื้อของ แต่จำนวนเงินไม่พอ ควรทำอย่างไร?&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - กรณีน้องต้มบะหมี่เสร็จ แต่พึ่งมาทราบภายหลังว่าในซองบะหมี่ไม่มีเครื่องปรุงมาด้วย ต้องทำอย่างไร?&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="mvioNwK95yMqdUQ73LqQ-70" vertex="1">
-          <mxGeometry x="15" y="20" width="650" height="240" as="geometry" />
+        <mxCell id="mvioNwK95yMqdUQ73LqQ-71" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;โจทย์&lt;/u&gt;&lt;/b&gt; จงเขียน Flowchart เพื่ออธิบายกระบวนการในการรับงานทำเว็บไซต์จากลูกค้า&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (ดูตัวอย่างได้จากเว็บไซท์ https://www.fastwork.com)&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;&lt;b&gt;&lt;u&gt;หมายเหตุ&lt;/u&gt;&lt;/b&gt;&amp;nbsp;ควรมีขั้นตอนครบถ้วน เปรียบเสมือนตัวคุณเอง ที่กำลังอยากเริ่มต้นรับงานทำเว็บไซต์จากลูกค้าของคุณเอง&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; คุณจะต้องคำนึงถึงขั้นตอนทุกอย่างให้รอบคอบตั้งแต่การโพสหางาน การพูดคุยเพื่อคัดกรองลูกค้า&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; การพูดคุยเรื่องความต้องการของลูกค้าเป็นข้อๆให้ชัดเจน การเซ็นต์สัญญารับงาน การรับเงินล่วงหน้าก่อน ฯลฯ&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="mvioNwK95yMqdUQ73LqQ-70" vertex="1">
+          <mxGeometry x="15" y="20" width="660" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
