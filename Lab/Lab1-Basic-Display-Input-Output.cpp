@@ -6,7 +6,7 @@ int main() {
     printf( "Enter your name: " ) ;
     scanf( "%s", Name ) ;
     printf( "Enter your age: " ) ;
-    scanf( "%d", Age ) ;
+    scanf( "%d", &Age ) ;
     printf( "- - - - - -\n" ) ;
     printf( "______ \n", ___ ) ; //TODO: #14 Say hello to user.
     printf( "______ \n", ___ ) ; //TODO: #15 display user their age number plus 1.
