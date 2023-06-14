@@ -4,7 +4,6 @@
     ข้อมูลภายในไฟล์ a.txt
         Hello World
     
-    Test case:
     Output:
         Text in file = Hello World
 */
