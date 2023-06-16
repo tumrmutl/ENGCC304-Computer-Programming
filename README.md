@@ -3,6 +3,14 @@
 ### คำอธิบายรายวิชา
 ศึกษาและฝึกปฏิบัติเกี่ยวกับแนวคิดและองค์ประกอบของระบบคอมพิวเตอร์ ปฏิสัมพันธ์ (Interaction) ระหว่างฮาร์ดแวร์และซอฟต์แวร์ ภาษาที่ใช้เขียนโปรแกรมในปัจจุบัน
 
+### เกณฑ์การให้คะแนน
+* เข้าห้องเรียน 10%
+* การบ้าน 10%
+* ปฏิบัติ (Lab) 20%
+* สอบปฏิบัติ 20%
+* สอบกลางภาค (Midterm) 20%
+* สอบปลายภาค (Final) 20%
+
 ### ลิงค์เอกสารที่เกี่ยวข้อง
 * [มคอ.3](https://lms.rmutl.ac.th/course/detail/26685112510840845/3315eca9948196f315b9646a7c17aff406bbcadea6cd2b09fa459877a055ff59)
 * [ห้องแชทใน MS Team](https://teams.microsoft.com/l/team/19%3arKntHXYhYmuuzH0Pzkf8UCBfpW9YhTA1HYd-zRd2TAY1%40thread.tacv2/conversations?groupId=71704dcf-e83c-484d-9128-9752beb4c08f&tenantId=2c0a3819-8c66-4ae1-9a99-3832d9facbd9)
