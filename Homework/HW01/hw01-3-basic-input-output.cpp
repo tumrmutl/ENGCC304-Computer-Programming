@@ -1,13 +1,15 @@
 /*
-    เขียนโปรแกรมรับ "ชื่อ" จากผู้ใช้ และแสดงผลบนหน้าจอดังผลลัพธ์ด้านล่างต่อไปนี้ (แถบสีฟ้าแสดงตัวอย่างของ Input ที่รับจากผู้ใช้)
+    เขียนโปรแกรมรับ "ชื่อ" จากผู้ใช้ และแสดงผลบนหน้าจอดังผลลัพธ์ด้านล่างต่อไปนี้ 
     
     Test case:
-        Kittinan
+        First Name: Aomsin
+        Last Name: AomMoney
     Output:
-        Kittinans TC, RMUTL, Chiang Mai, Thailand
+        Aomsin AomMoneys TC, RMUTL, Chiang Mai, Thailand
 
     Test case:
-        Anan
+        First Name: ABC
+        Last Name: DEF
     Output:
-        Anans TC, RMUTL, Chiang Mai, Thailand
+        ABD DEFs TC, RMUTL, Chiang Mai, Thailand
 */
