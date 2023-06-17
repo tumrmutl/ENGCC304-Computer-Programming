@@ -25,6 +25,12 @@
             44
     Output:
         F !
+
+    Test case:
+        enter score :
+            hello
+    Output:
+        please enter number only.
 */
 
 #include <stdio.h>
