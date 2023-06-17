@@ -22,12 +22,6 @@
 
     Test case:
         Enter word:
-            Madam
-    Output:
-        Pass.
-
-    Test case:
-        Enter word:
             here
     Output:
         Not Pass.
