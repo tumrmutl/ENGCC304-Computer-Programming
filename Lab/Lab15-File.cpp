@@ -12,14 +12,14 @@
 
 
 
-    ข้อมูลภายในไฟล์ a.txt
+    ข้อมูลภายในไฟล์ b.txt
     Encourage your students to test their program with different input files to ensure its correctness.
 
     Test Case :
         Enter file name:
-            a.txt
+            b.txt
     Output:
-        Total number of words in 'a.txt' : 15 words
+        Total number of words in 'b.txt' : 15 words
 */
 
 #include <stdio.h>
