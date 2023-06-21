@@ -16,6 +16,7 @@
 * [ห้องแชทใน MS Team](https://teams.microsoft.com/l/team/19%3arKntHXYhYmuuzH0Pzkf8UCBfpW9YhTA1HYd-zRd2TAY1%40thread.tacv2/conversations?groupId=71704dcf-e83c-484d-9128-9752beb4c08f&tenantId=2c0a3819-8c66-4ae1-9a99-3832d9facbd9)
 * [เอกสารอ้างอิง](https://autolib.rmutl.ac.th/Catalog/BibItem.aspx?BibID=b00141555)
 * [โปรแกรม VS Code](https://code.visualstudio.com/download)
+* [โปรแกรมสร้างเกมเบื้องต้น](https://arcade.makecode.com/)
 
 ### รายการละเอียดในแต่ละสัปดาห์
 สัปดาห์ | เนื้อหา | วีดีโอย้อนหลัง | เอกสารเพิ่มเติม | การบ้าน | Lab
