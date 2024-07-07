@@ -17,6 +17,8 @@
 * [ห้องแชทใน MS Team](https://teams.microsoft.com/l/team/19%3ASRc4lB9z91Vay6mrtEaEm14MyYUYn_hccTzFXdp1NyE1%40thread.tacv2/conversations?groupId=37d36e7f-c2eb-4dcf-9320-32ee74544bd8&tenantId=2c0a3819-8c66-4ae1-9a99-3832d9facbd9)
 * [เอกสารอ้างอิง](https://autolib.rmutl.ac.th/Catalog/BibItem.aspx?BibID=b00141555)
 * [โปรแกรม VS Code](https://code.visualstudio.com/download)
+* [เว็บสำหรับเขียนโค้ดแบบออนไลน์](https://onlinegdb.com)
+* [เว็บสำหรับวาดFlowchart](https://draw.io)
 * [โปรแกรมสร้างเกมเบื้องต้น](https://arcade.makecode.com/)
 
 ### รายการละเอียดในแต่ละสัปดาห์
