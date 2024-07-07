@@ -19,6 +19,7 @@
 * [โปรแกรม VS Code](https://code.visualstudio.com/download)
 * [เว็บสำหรับเขียนโค้ดแบบออนไลน์](https://onlinegdb.com)
 * [เว็บสำหรับวาดFlowchart](https://draw.io)
+* [เว็บสำหรับแชร์โค้ดโปรแกรมสวยๆ](https://carbon.now.sh/?bg=rgba%2874%2C144%2C226%2C1%29&t=material&wt=none&l=text%2Fx-c%2B%2Bsrc&width=828&ds=false&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=true&fl=1&fm=Fira+Code&fs=14px&lh=152%25&si=false&es=2x&wm=false&code=%2523include%2520%253Cstdio.h%253E%250A%250Aint%2520main%28%29%2520%257B%250A%2520%2520printf%28%2522Hello%2522%29%2520%253B%250A%2520%2520return%25200%2520%253B%250A%257D%252F%252Fend%2520function)
 * [โปรแกรมสร้างเกมเบื้องต้น](https://arcade.makecode.com/)
 
 ### รายการละเอียดในแต่ละสัปดาห์
