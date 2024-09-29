@@ -64,27 +64,26 @@
             69
 
     Output:
-    Student Details:
-    Student 1:
-    Name: John Doe
-    ID: 101
-    Scores: 77 64 66 54 56
-    Grades: B+  C C+ D  D+
-    Average Scores: 63.4
+        Student 1:
+        Name: John Doe
+        ID: 101
+        Scores: 77 64 66 54 56
+        Grades: B+ C C+ D D+
+        Average Scores: 63.4
 
-    Student 2:
-    Name: Jane Smith
-    ID: 102
-    Scores: 43 70 76 77 80
-    Grades:  F  B B+ B+  A
-    Average Scores: 69.2
+        Student 2:
+        Name: Jane Smith
+        ID: 102
+        Scores: 43 70 76 77 80
+        Grades: F B B+ B+ A
+        Average Scores: 69.2
 
-    Student 3:
-    Name: Mark Johnson
-    ID: 103
-    Scores: 77 74 76 81 69
-    Grades: B+  B B+  A C+
-    Average Scores: 75.4
+        Student 3:
+        Name: Mark Johnson
+        ID: 103
+        Scores: 77 74 76 81 69
+        Grades: B+ B B+ A C+
+        Average Scores: 75.4
 */
 
 #include <stdio.h>
