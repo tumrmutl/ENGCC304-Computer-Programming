@@ -18,7 +18,7 @@
             2
     Output:
         Index:  0  1  2  3  4  5
-        Array:  # 19  #  #  #  2
+        Array: 19  #  #  #  #  2
 */
 
 #include <stdio.h>
