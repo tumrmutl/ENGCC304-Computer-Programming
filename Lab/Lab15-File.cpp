@@ -1,12 +1,12 @@
 /*
     จงเขียนฟังก์ชันเพื่ออ่านจำนวนตัวคำภายในไฟล์ (โดยไม่นับรวมเครื่องหมายเว้นวรรค)
 
-    ข้อมูลภายในไฟล์ a.txt
+    ข้อมูลภายในไฟล์ b.txt
     Hi, This is my first time in RMUTL.
 
     Test Case :
         Enter file name:
-            a.txt
+            b.txt
     Output:
         Total number of words in 'a.txt' : 8 words
 
