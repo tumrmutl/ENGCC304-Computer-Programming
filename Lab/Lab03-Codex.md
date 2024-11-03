@@ -1,6 +1,7 @@
 ## โจทย์
 จงจัดโค้ดโปรแกรมให้อยู่ในรูปแบบมาตรฐาน Codex และแก้ไข Bug ของโปรแกรม
 
+## FIX CODE
 ```c++
 #include <stduio.h>
 #include <math.h>
@@ -27,13 +28,6 @@ printf("%2s ", "#");
     }
     printf("\n");return 0;
         }
-
-
-```
-
-## FIX CODE
-```c++
-ไม่มี
 ```
 
 ## TEST CASE
