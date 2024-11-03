@@ -31,6 +31,7 @@ Enter you age: 56
 ```
 ### Output
 ```bash
+- - - - - -
 Hello Thongchai
 Age = 56
 ```
