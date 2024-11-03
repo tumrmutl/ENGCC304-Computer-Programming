@@ -1,9 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/milk/Documents/git/ENGCC304-Computer-Programming/Lab/output/Lab03-Codex'
-relocations:
-  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z7isPrimei, symObjAddr: 0x0, symBinAddr: 0x100003BC8, symSize: 0xC8 }
-  - { offsetInCU: 0x307, offset: 0x307, size: 0x8, addend: 0x0, symName: __Z7isPrimei, symObjAddr: 0x0, symBinAddr: 0x100003BC8, symSize: 0xC8 }
-  - { offsetInCU: 0x34F, offset: 0x34F, size: 0x8, addend: 0x0, symName: __Z4sqrtB8ue170006IiENSt3__19enable_ifIXsr3std11is_integralIT_EE5valueEdE4typeES2_, symObjAddr: 0xC8, symBinAddr: 0x100003C90, symSize: 0x24 }
-  - { offsetInCU: 0x386, offset: 0x386, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xEC, symBinAddr: 0x100003CB4, symSize: 0x288 }
-...
