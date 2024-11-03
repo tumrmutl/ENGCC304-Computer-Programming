@@ -24,7 +24,7 @@
 * [ลิงค์ส่งงานLab](https://forms.office.com/r/Yz8xb6BHqi)
 
 ### รายการละเอียดในแต่ละสัปดาห์
-สัปดาห์ | เนื้อหา | วีดีโอย้อนหลัง | การบ้าน | Lab | แบบทดสอบ
+สัปดาห์ | เนื้อหา | วีดีโอย้อนหลัง | การบ้าน | Lab | แบบทดสอบs
 --- | --- | --- | --- | --- | ---
 1| **โครงสร้างของภาษาซีเบื้องต้น และ การใช้งานโปรแกรม Dev-C** <br />รู้และเข้าใจโครงสร้างของภาษาซีเบื้องต้น และ ทำความรู้จักการใช้งานโปรแกรม Dev-C เพื่อใช้ในการพัฒนาโปรแกรมคอมพิวเตอร์ |[Video1](https://www.youtube.com/watch?v=01p2FCUcYY8)<br />[Video2](https://www.youtube.com/watch?v=rI52J5TJTMw)|[1-1](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW01/hw01-1-helloworld.cpp)<br />[1-2](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW01/hw01-2-fix-bug.cpp)<br />[1-3](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW01/hw01-3-basic-input-output.cpp)|[Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab01-Basic-Display-Input-Output.cpp)| [บฝ.](https://forms.office.com/r/BeGVra089y)
 2| **การแก้ไขปัญหาโดยใช้ขั้นตอนวิธี (อัลกอริทึม)** <br />เรียนรู้และเข้าใจหลักการแก้ไขปัญหาโดยการใช้อัลกอริทึม การออกแบบแนวทางการแก้ไขปัญหา การอธิบายขั้นตอนวิธีโดยใช้ Pseudo code และ Flow chart |[Video](https://www.youtube.com/watch?v=9hEjesjU_k0)|[2-1](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW02/hw02-1-noodle.drawio)<br />[2-2](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW02/hw02-2-requirement.drawio)|[Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab02-Basic-Flowchart.drawio)| [บฝ.](https://forms.office.com/r/DXCWCWYeg3)
