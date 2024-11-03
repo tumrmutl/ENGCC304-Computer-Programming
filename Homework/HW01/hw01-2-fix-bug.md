@@ -23,7 +23,9 @@ int main()
 ```
 ### Output
 ```bash
-Hello World
+Hello, I'm Javis (RMUTL-Version).
+This is my first time to coding with C language.
+Today is my birthday.
 ```
 
 ## มาตรฐานการตรวจตามหลักการเรียนรู้ของบลูม
