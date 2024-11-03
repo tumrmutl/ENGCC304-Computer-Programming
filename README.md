@@ -27,20 +27,7 @@
 สัปดาห์ | เนื้อหา
 --- | ---
 1| **โครงสร้างของภาษาซีเบื้องต้น และ การใช้งานโปรแกรม Dev-C** <br />รู้และเข้าใจโครงสร้างของภาษาซีเบื้องต้น และ ทำความรู้จักการใช้งานโปรแกรม Dev-C เพื่อใช้ในการพัฒนาโปรแกรมคอมพิวเตอร์<br /><br />**วีดีโอย้อนหลัง** : [Video1](https://www.youtube.com/watch?v=01p2FCUcYY8) , [Video2](https://www.youtube.com/watch?v=rI52J5TJTMw)<br />**การบ้าน** : [1-1](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW01/hw01-1-helloworld.cpp) , [1-2](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW01/hw01-2-fix-bug.cpp) , [1-3](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW01/hw01-3-basic-input-output.cpp)<br />**Lab** : [Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab01-Basic-Display-Input-Output.cpp)<br />**แบบทดสอบ** : [บฝ.](https://forms.office.com/r/BeGVra089y)
-2| **การแก้ไขปัญหาโดยใช้ขั้นตอนวิธี (อัลกอริทึม)** <br />เรียนรู้และเข้าใจหลักการแก้ไขปัญหาโดยการใช้อัลกอริทึม การออกแบบแนวทางการแก้ไขปัญหา การอธิบายขั้นตอนวิธีโดยใช้ Pseudo code และ Flow chart 
-<br />
-**วีดีโอย้อนหลัง** : 
-
-<br />
-**การบ้าน** : 
-
-<br />
-**Lab** : 
-
-<br />
-**แบบทดสอบ** : 
-
-[Video](https://www.youtube.com/watch?v=9hEjesjU_k0)|[2-1](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW02/hw02-1-noodle.drawio)<br />[2-2](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW02/hw02-2-requirement.drawio)|[Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab02-Basic-Flowchart.drawio)| [บฝ.](https://forms.office.com/r/DXCWCWYeg3)
+2| **การแก้ไขปัญหาโดยใช้ขั้นตอนวิธี (อัลกอริทึม)** <br />เรียนรู้และเข้าใจหลักการแก้ไขปัญหาโดยการใช้อัลกอริทึม การออกแบบแนวทางการแก้ไขปัญหา การอธิบายขั้นตอนวิธีโดยใช้ Pseudo code และ Flow chart <br />**วีดีโอย้อนหลัง** : [Video](https://www.youtube.com/watch?v=9hEjesjU_k0)<br />**การบ้าน** : [2-1](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW02/hw02-1-noodle.drawio) , [2-2](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Homework/HW02/hw02-2-requirement.drawio)<br />**Lab** : [Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab02-Basic-Flowchart.drawio)<br />**แบบทดสอบ** : [บฝ.](https://forms.office.com/r/DXCWCWYeg3)
 3| **หลักการภาษาซี : โครงสร้างของภาษาซี และ มาตรฐานการเขียนโค้ดแบบ CODEX** <br />เรียนรู้และเข้าใจหลักการโครงสร้างของภาษาซี การรับค่าและการแสดงค่า และเรียนรู้มาตรฐานการเขียนโค้ดแบบ Codex 
 <br />
 **วีดีโอย้อนหลัง** : 
