@@ -13,7 +13,7 @@
         Expected Output:
         Employees ID = 0342
         Salary = U$ 120,000.00
-
+y8uin 
     Test case:
         Input the Employees ID(Max. 10 chars): 
             0000500349
