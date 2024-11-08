@@ -1,1 +1,0 @@
-//TODO: #16 Quiz Basic Syntax, Codex, Variable, Operator, For Loop, While Loop, Do while Loop.
