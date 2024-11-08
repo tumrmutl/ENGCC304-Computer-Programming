@@ -71,7 +71,7 @@ Scores in Subject 5:
 ### Output
 ```bash
 Student 1:
-Name: `John Doe`
+Name: John Doe
 ID: 101
 Scores: 77 64 66 54 56
 Grades: B+ C C+ D D+
