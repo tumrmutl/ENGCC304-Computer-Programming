@@ -91,6 +91,16 @@ Exiting the program. Goodbye!
 - ใช้การเรียงลำดับข้อมูลด้วยฟังก์ชัน sortScores
 - ค้นหาคะแนนของนักเรียนด้วยฟังก์ชัน binarySearch เพื่อเพิ่มประสิทธิภาพในการค้นหา
 
+### ข้อมูลในไฟล์
+ไฟล์ score.txt
+```bash
+101 85
+102 90
+103 78
+104 92
+105 65
+```
+
 ## FIX CODE
 ```c++
 void loadScores(char *filename, int student_ids[], int scores[], int *count);
@@ -99,14 +109,72 @@ void sortScores(int student_ids[], int scores[], int count);
 int binarySearch(int student_ids[], int scores[], int count, int student_id);
 ```
 
-## TEST CASE
+## TEST CASE : Load Scores from File
 ### Input
 ```bash
--
+Choose an option: 1
 ```
 ### Output
 ```bash
--
+Scores loaded successfully!
+```
+
+## TEST CASE : Show Min and Max Scores
+### Input
+```bash
+Choose an option: 2
+```
+### Output
+```bash
+Minimum Score: 65
+Maximum Score: 92
+```
+
+## TEST CASE : Sort Scores in Ascending Order
+### Input
+```bash
+Choose an option: 3
+```
+### Output
+```bash
+Sorted Scores:
+Student ID: 105, Score: 65
+Student ID: 103, Score: 78
+Student ID: 101, Score: 85
+Student ID: 102, Score: 90
+Student ID: 104, Score: 92
+```
+
+## TEST CASE : Search Score by Student ID (Student Found)
+### Input
+```bash
+Choose an option: 4
+Enter Student ID to Search: 102
+```
+### Output
+```bash
+Score for Student ID 102: 90
+```
+
+## TEST CASE : Search Score by Student ID (Student Not Found)
+### Input
+```bash
+Choose an option: 4
+Enter Student ID to Search: 999
+```
+### Output
+```bash
+Student ID 999 not found.
+```
+
+## TEST CASE : Exit Program
+### Input
+```bash
+Choose an option: 5
+```
+### Output
+```bash
+Exiting the program. Goodbye!
 ```
 
 ## มาตรฐานการตรวจตามหลักการเรียนรู้ของบลูม
