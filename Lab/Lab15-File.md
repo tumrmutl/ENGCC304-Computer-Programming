@@ -7,7 +7,7 @@
 ```
 
 ## TEST CASE
-ข้อมูลภายในไฟล์ b.txt
+ข้อมูลภายในไฟล์ b.txt<br />
 Hi, This is my first time in RMUTL.
 ### Input
 ```bash
@@ -20,8 +20,8 @@ Total number of words in 'a.txt' : 8 words
 ```
 
 ## TEST CASE
-ข้อมูลภายในไฟล์ b.txt
-    Encourage your students to test their program with different input files to ensure its correctness.
+ข้อมูลภายในไฟล์ b.txt<br />
+Encourage your students to test their program with different input files to ensure its correctness.
 ### Input
 ```bash
 Enter file name:
