@@ -1,37 +1,64 @@
-/*
+## โจทย์
     จงเขียนโปรแกรมเพื่อรับคำจากผู้ใช้งาน เพื่อตรวจสอบว่า คำที่กรอกมามีลักษณะเป็นคำหรือวลีที่สามารถอ่านจากหลังไปหน้าหรือหน้าไปหลังแล้วยังคงความหมายเหมือนเดิมได้
     โดยที่ หากคำนั้นสามารถอ่านจากหน้าไปหลังหรือหลังไปได้ ให้แสดงผลลัพธ์ว่า Pass แต่หากทำไม่ได้ให้ขึ้นว่า Not Pass
 
-    Test case:
-        Enter word:
-            radar
-    Output:
-        Pass.
 
-    Test case:
-        Enter word:
-            hello
-    Output:
-        Not Pass.
+## FIX CODE
+```c++
+-
+```
 
-    Test case:
-        Enter word:
-            Radar
-    Output:
-        Pass.
+## TEST CASE
+### Input
+```bash
+Enter word:
+radar
+```
+### Output
+```bash
+Pass.
+```
 
-    Test case:
-        Enter word:
-            here
-    Output:
-        Not Pass.
-*/
+## TEST CASE
+### Input
+```bash
+Enter word:
+hello
+```
+### Output
+```bash
+Not Pass.
+```
 
-#include <stdio.h>
+## TEST CASE
+### Input
+```bash
+Enter word:
+Radar
+```
+### Output
+```bash
+Pass.
+```
 
-int main() {
+## TEST CASE
+### Input
+```bash
+Enter word:
+here
+```
+### Output
+```bash
+Not Pass.
+```
 
-    //--| YOUR CODE HERE
-
-    return 0 ;
-}//end main function
+## มาตรฐานการตรวจตามหลักการเรียนรู้ของบลูม
+| ลำดับการเรียนรู้ | เกณฑ์การวัด | คะแนน |
+| -------- | -------- | -------- |
+| รู้จำ | เห็นโครงสร้างของโค้ดโปรแกรมชัดเจน ได้มาตรฐาน | 1 pts |
+| เข้าใจ | แก้ไขปัญหาได้ตามที่โจทย์กำหนด | 1 pts |
+| ประยุกต์ใช้ | สามารถผ่านเงื่อนไขได้ทุก testcase | 1 pts |
+| วิเคราะห์ | หาจุดผิดของโปรแกรมได้ | 1 pts |
+| ประเมินค่า | โปรแกรมเสร็จสมบูรณ์ระยะเวลาที่กำหนด | 1 pts |
+| สร้างสรรค์ | แก้ไขสถานการณ์ของโจทย์ | 1 pts |
+||<p style='text-align: right !important;'>**รวม**</p>|**6 pts**|
