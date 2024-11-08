@@ -28,17 +28,37 @@
 
 ## FIX CODE
 ```c++
-
+-
 ```
 
 ## TEST CASE
 ### Input
 ```bash
--
+Position: 1  (Junior Programmer)
+Years of Experience: 2
+Number of Projects Completed this Year: 4
 ```
 ### Output
 ```bash
--
+Base Salary: 20000 THB
+Experience Bonus: 2000 THB
+Special Bonus: 0 THB
+Net Salary: 22000 THB
+```
+
+## TEST CASE
+### Input
+```bash
+Position: 3  (Senior Programmer)
+Years of Experience: 6
+Number of Projects Completed this Year: 7
+```
+### Output
+```bash
+Base Salary: 50000 THB
+Experience Bonus: 10000 THB
+Special Bonus: 2500 THB
+Net Salary: 62500 THB
 ```
 
 ## มาตรฐานการตรวจตามหลักการเรียนรู้ของบลูม
