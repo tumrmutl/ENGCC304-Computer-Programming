@@ -26,6 +26,71 @@ student_id score
     - ค้นหาคะแนนตามรหัสนักเรียน
     - ออกจากโปรแกรม
 
+### ตัวอย่างการใช้งานโปรแกรม
+```
+Student Score Management
+1. Load Scores from File
+2. Show Min and Max Scores
+3. Sort Scores in Ascending Order
+4. Search Score by Student ID
+5. Exit
+Choose an option: 1
+
+Scores loaded successfully!
+
+Student Score Management
+1. Load Scores from File
+2. Show Min and Max Scores
+3. Sort Scores in Ascending Order
+4. Search Score by Student ID
+5. Exit
+Choose an option: 2
+
+Minimum Score: 65
+Maximum Score: 92
+
+Student Score Management
+1. Load Scores from File
+2. Show Min and Max Scores
+3. Sort Scores in Ascending Order
+4. Search Score by Student ID
+5. Exit
+Choose an option: 3
+
+Sorted Scores:
+Student ID: 103, Score: 65
+Student ID: 101, Score: 78
+Student ID: 102, Score: 90
+...
+
+Student Score Management
+1. Load Scores from File
+2. Show Min and Max Scores
+3. Sort Scores in Ascending Order
+4. Search Score by Student ID
+5. Exit
+Choose an option: 4
+
+Enter Student ID to Search: 102
+Score for Student ID 102: 90
+
+Student Score Management
+1. Load Scores from File
+2. Show Min and Max Scores
+3. Sort Scores in Ascending Order
+4. Search Score by Student ID
+5. Exit
+Choose an option: 5
+
+Exiting the program. Goodbye!
+```
+
+### แนวทางการทำงาน
+- โหลดข้อมูลจากไฟล์โดยใช้ฟังก์ชัน loadScores และเก็บข้อมูลใน array
+- ใช้ pointer เพื่อจัดการ array ในฟังก์ชัน findMinMax เพื่อหาคะแนนสูงสุดและต่ำสุด
+- ใช้การเรียงลำดับข้อมูลด้วยฟังก์ชัน sortScores
+- ค้นหาคะแนนของนักเรียนด้วยฟังก์ชัน binarySearch เพื่อเพิ่มประสิทธิภาพในการค้นหา
+
 ## FIX CODE
 ```c++
 void loadScores(char *filename, int student_ids[], int scores[], int *count);
